@@ -1,0 +1,5 @@
+<% provide(:title, 'Contact') %>
+<h1> Contact</h1>
+ <p> 
+  Contact ruby on rails tel: 8-960-88-44-9-88
+ </p>
